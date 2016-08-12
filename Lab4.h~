@@ -11,4 +11,4 @@ class Pascal
            void Imprimir(int);
            
 };
- 
+
