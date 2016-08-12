@@ -7,7 +7,6 @@ Pascal::Pascal()
 {
 }
 
-
 void Pascal::Imprimir(int rows)
 {
     cout << endl;
