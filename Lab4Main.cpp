@@ -4,7 +4,7 @@
 using namespace std;
 
 void imprimir(int** matrix, int size, int divisor, int reminder);
- 
+  	
 int main()
 {
     int opc = 0;
